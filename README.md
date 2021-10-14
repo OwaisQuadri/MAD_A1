@@ -1,3 +1,3 @@
 # MAD_A1
-SOFE4640U - Mobile Application Development Assignment 1:
+SOFE4640U - Mobile Application Development Assignment 1:  
 To keep a record of mortgage details or EMI (equated monthly installment) is really difficult be-cause you need to calculate everything according to it like monthly saving and monthly spending including daily expenses. And manually calculation contains errors and it is also not perfect. And you need to take care of things where you have done all the calculations. What if one app is launched which make the calculation much easier and through which you can calculate your monthly EMI based on the amount of mortgage amount tenure, and interest rate.
