@@ -1,3 +1,12 @@
 # MAD_A1
+
 SOFE4640U - Mobile Application Development Assignment 1:  
-To keep a record of mortgage details or EMI (equated monthly installment) is really difficult because you need to calculate everything according to it like monthly saving and monthly spending including daily expenses. And manually calculation contains errors and it is also not perfect. And you need to take care of things where you have done all the calculations. What if one app is launched which make the calculation much easier and through which you can calculate your monthly EMI based on the amount of mortgage amount tenure, and interest rate.
+The purpose of this assignment is to create an Android mobile application where the user can calculate their equated monthly installment (EMI) based on the mortgage amount tenure and the interest rate.
+
+How to run application:
+
+<ol>
+  <li>Open Android Studio.</li>
+  <li>Welcome Page > Open from VCS > enter URL (https://github.com/OwaisQuadri/MAD_A1) and open project.</li>
+  <li>Run project on AVD (Android Virtual Device).</li>
+</ol>
