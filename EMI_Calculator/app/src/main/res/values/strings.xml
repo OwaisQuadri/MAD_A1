@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">EMI_Calculator</string>
+    <!--Labels-->
+    <string name="mortgage_label">Mortgage Value (CAD):</string>
+    <string name="years_label">Yearly Interest Rate (%):</string>
+    <string name="interest_rate_label">Number of Years:</string>
+    <string name="output_label"></string>
+    <string name="prompt_label">Please enter the following values to calculate the EMI (equated monthly installment)</string>
+    <!--Button-->
+    <string name="calculate_button">Calculate</string>
+    <!--Hints-->
+    <string name="mortgage_hint">Mortgage</string>
+    <string name="years_hint">Years</string>
+    <string name="interest_rate_hint">Interest Rate</string>
 </resources>
